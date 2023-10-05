@@ -6,9 +6,11 @@
 /*   By: alafdili <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 20:23:00 by alafdili          #+#    #+#             */
-/*   Updated: 2023/10/05 00:29:56 by alafdili         ###   ########.fr       */
+/*   Updated: 2023/10/05 04:08:03 by alafdili         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdio.h>
 
 char	*ft_strstr(char *str, char *to_find)
 {
